@@ -1,5 +1,3 @@
-README - Setup Instructions
-
 To run the program successfully, follow the steps below:
 
 1. Install Anaconda:
@@ -28,7 +26,12 @@ To run the program successfully, follow the steps below:
 
      conda install spyder
 
-5. Update File Paths:
+5. Install SQLite:
+   - Download and install SQLite for managing the database.
+   - Visit the official SQLite download page: https://www.sqlite.org/download.html
+   - Follow the instructions based on your operating system to install it.
+
+6. Update File Paths:
    - Before running the program, make sure to change the file paths in your code according to the location of the files on your system.
 
 Note:
